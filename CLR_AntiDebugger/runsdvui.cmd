@@ -1,0 +1,2 @@
+cd /d "C:\Users\11723\source\repos\CLR_AntiDebugger\CLR_AntiDebugger" &msbuild "CLR_AntiDebugger.vcxproj" /t:sdvViewer /p:configuration="Debug" /p:platform="x64" /p:SolutionDir="C:\Users\11723\source\repos\CLR_AntiDebugger" 
+exit %errorlevel% 
